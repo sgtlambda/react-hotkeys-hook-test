@@ -32,9 +32,13 @@ function App() {
     { key: 'ctrl+b', description: 'Toggle Bold' },
     { key: 'shift+?', description: 'Show Help' },
     { key: 'meta+up', description: 'Move Up' },
+    { key: 'meta+down', description: 'Move Down' },
     { key: 'ctrl+up', description: 'Move Up (Windows)' },
+    { key: 'ctrl+down', description: 'Move Down (Windows)' },
     { key: 'meta+shift+up', description: 'Move Up with Selection' },
+    { key: 'meta+shift+down', description: 'Move Down with Selection' },
     { key: 'ctrl+shift+up', description: 'Move Up with Selection (Windows)' },
+    { key: 'ctrl+shift+down', description: 'Move Down with Selection (Windows)' },
     { key: 'alt+1', description: 'Switch Tab 1' },
   ]
 
